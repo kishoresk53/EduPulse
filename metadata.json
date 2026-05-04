@@ -1,0 +1,11 @@
+{
+  "name": "EduTrack Pro",
+  "description": "A comprehensive student management system with automated attendance tracking, grade analytics, and performance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Student Information Management",
+    "Attendance Tracking",
+    "Grade Reporting",
+    "Performance Analytics"
+  ]
+}
